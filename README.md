@@ -1,4 +1,4 @@
-# 🧬 İlginç Bilgiler - Arduino Projesi
+# İlginç Bilgiler - Arduino Projesi
 
 Biyoloji ve doğa hakkında ilginç bilgileri 16x2 LCD ekranda gösteren otonom bir Arduino projesi.
 
